@@ -1,0 +1,5 @@
+new 1 98 
+again 2 51 
+away 3 40 
+math 4 10 
+reham 5 3

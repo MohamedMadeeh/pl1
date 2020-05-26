@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590056594 source:/home/reham/reham/c/projectPL1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590025848 source:c:\users\medoo\onedrive\desktop\projectpl1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
